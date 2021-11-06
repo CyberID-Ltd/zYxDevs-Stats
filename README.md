@@ -1,9 +1,9 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/CyberID-Ltd/zYxDevs-Stats)
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/CyberID-Ltd/zYxDevs-Stats">
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/CyberID-Ltd/zYxDevs-Stats/blob/master/generated/overview.svg)
+![](https://github.com/CyberID-Ltd/zYxDevs-Stats/blob/master/generated/languages.svg)
 
 </a>
 
